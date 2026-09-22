@@ -2,6 +2,7 @@
 Sebuah tempat parkir menerapkan tarif berdasarkan jenis kendaraan dan durasi berada di area parkir. Praktikan diminta membuat sebuah function yang mencatat kendaraan dan menerima lama parkir dalam jam, kemudian menghitung total biaya parkir menggunakan tarif yang telah ditentukan.
 
 Tipe kendaraan:
+<br>
 Mobil dengan tarif Rp5000/jam
 <br>
 Motor dengan tarif Rp3000/jam
